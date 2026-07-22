@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/producer_consumer.dir/src/sync/producer_consumer.c.o -o producer_consumer 

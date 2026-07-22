@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/message_queue_example.dir/src/ipc/message_queue_example.c.o -o message_queue_example 

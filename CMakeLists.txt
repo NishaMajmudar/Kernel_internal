@@ -24,3 +24,8 @@ target_link_libraries(semaphore_example Threads::Threads)
 
 add_executable(producer_consumer src/sync/producer_consumer.c)
 target_link_libraries(producer_consumer Threads::Threads)
+
+add_custom_target(clean-all
+    COMMAND ${CMAKE_COMMAND} -E rm -rf ${CMAKE_BINARY_DIR}/*
+    COMMENT "Removing all build files"
+)

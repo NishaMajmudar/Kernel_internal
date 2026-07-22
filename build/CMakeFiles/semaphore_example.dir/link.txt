@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/semaphore_example.dir/src/sync/semaphore_example.c.o -o semaphore_example 

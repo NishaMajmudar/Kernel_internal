@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/thread_example.dir/src/threads/thread_example.c.o -o thread_example 

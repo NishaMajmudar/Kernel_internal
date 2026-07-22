@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/signal_example.dir/src/signals/signal_example.c.o -o signal_example 

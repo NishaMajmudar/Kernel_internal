@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/fork_example.dir/src/process/fork_example.c.o -o fork_example 

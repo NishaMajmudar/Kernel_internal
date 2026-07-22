@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/pipe_example.dir/src/ipc/pipe_example.c.o -o pipe_example 
