@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/shared_memory_example.dir/src/ipc/shared_memory_example.c.o -o shared_memory_example 
